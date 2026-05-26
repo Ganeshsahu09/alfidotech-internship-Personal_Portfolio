@@ -45,3 +45,24 @@ The focus of this project is on:
 portfolio-website/
 │── index.html
 │── style.css
+│──assets/
+    └── screenshots/
+        ├── home.png
+        ├── skills.png
+        ├── projects.png
+        └── mobile.png
+
+        
+## 📸 Screenshots
+
+### Home
+![Home](assets/screenshots/home.png)
+
+### Skills
+![Skills](assets/screenshots/skills.png)
+
+### Projects
+![Projects](assets/screenshots/projects.png)
+
+### Mobile View
+![Mobile](assets/screenshots/mobile.png)
